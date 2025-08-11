@@ -1,6 +1,6 @@
 # Sarah-Fatima-
-Hello world , this is my profile
-<h2 align="left">Hey there, I'm Sarah !</h2>
+
+<h2 align="left">Hey there, I'm Sarah ! 👋</h2>
 
 ###
 
@@ -32,3 +32,4 @@ Hello world , this is my profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
 ###
+✨ _Curiosity + consistency = growth._
